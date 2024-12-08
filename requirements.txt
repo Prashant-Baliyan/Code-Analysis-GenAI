@@ -3,6 +3,7 @@ tiktoken
 chromadb
 langchain
 flask
-GitPython
-pyhton-dotenv==1.0.1
+gitpython
+langchain-community
+#pyhton-dotenv==1.0.1
 -e .
