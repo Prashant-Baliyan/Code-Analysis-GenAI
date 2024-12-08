@@ -4,4 +4,5 @@ chromadb
 langchain
 flask
 GitPython
-pyhton-dotenv
+pyhton-dotenv==1.0.1
+-e .
